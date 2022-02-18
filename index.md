@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Justin Wood's CV
+title: Justin Wood`s CV
 ---
 # Justin Wood
 Physicist, Mathematician, Cambridge professor.
@@ -24,41 +24,54 @@ Caring and compassionate leader of people that can support your sales and growth
 Competent systems specialist to help maintain your critical systems.
 Provider of competent decision making for day to day business operations. 
 Over twenty years of progressive experience working with projects of increasing value and scope.
-Experience managing an entire business unit within a corporation. 
+Experience managing an entire business unit within a corporation.
 Enjoys working with energetic and dynamic teams that like to solve complex and difficult client problems.
 Manages design functions and takes responsibility for projects with an approved scope of work.
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995-1998`
+Electronics Engineering Technology, *Niagara College Canada*
+Business Management Course, *Brock University*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Certifications and Awards
 
-- Sizar
+`2021`
+Standing Ovation Leadership, *ADB Safegate*
+`2019`
+Situational Leadership Workshop, *American Management Association*
+`2016`
+Shodan in Shorinji-Ryu Karate, *Zen Bei Butokukai*
+`2014`
+Bravo Bonus Award. *Maple Leaf Foods*
+Best Speech Award, *Toastmasters International*
+`2011`
+Industrial Automation Communications, *Anixter*
+`2006`
+*The Dale Carnegie Course*
+`2005`
+Certified Engineering Technologist, *OACETT*
+`1999`
+Introduction to ControlLogix, *Rockwell Automation*
+RSView32 Workshop, *Gerrie Electric*
+`1995`
+Time Management Seminar, *Daytimer’s of Canada*
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Technologies
+Data collection and reporting, *API Development*
+User experience and user interface, *HMI, UX/UI*
+Application programming interface, *Rest API*
+Database integration (MySQL, Postgres)
+Programmable logic controllers, *ControlLogix, Siemens, more*
+Electrical design, *AutoCAD, MSVisio*
+Linux operating system, *Debian*
+Web frameworks, *Django*
+Scripting, Python/PHP
+Virtualization (Oracle/VMWare)
 
-- Fellow
+### Hobbies and Interests
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+Martial arts, Hedera Hashgraph, physics, alchemy
 
 ## Publications
 
@@ -97,29 +110,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 Last updated: February 2022 -->
 
-# Curriculum Vitae for Justin Wood
-
-## Executive Summary
-
-    
-    
-    **Technologies**
-    - Data collection and reporting (Graph/Dashboard)
-    - User experience and user interface (HMI/UX/UI)
-    - Application programming interface (Rest API)
-    - Database integration (MySQL, Postgres)
-    - Programmable logic controllers (PLC)
-    - Electrical design (AutoCAD/Visio)
-    - Linux operating system (Debian)
-    - Web frameworks (Django)
-    - Scripting (Python/PHP)
-    - Virtualization (Oracle/VMWare)
-
-
-    **Hobbies and Interests**
-    - Martial arts instructor (Shorinji-Ryu Karate)
-    - Web Development (Javascript)
-    - Hedera Hashgraph (Hbar)
 
 
 ## Work Experience
@@ -197,26 +187,8 @@ Last updated: February 2022 -->
 
     - Responsible for all North American telephone sales efforts, thus increasing company revenues.
     - Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
-## Education
-    **Niagara College Canada - (1995 - 1998)**
-    - Electronics Engineering Technology Diploma
     
-    **Brock University (1995)**
-    - Business Management Course
-    
-    **Certifications and Awards**
-    - Daytimer’s of Canada - Time Management Seminar - July 1995
-    - Rockwell Automation - Introduction to ControlLogix - April 1999
-    - Gerrie Electric - RSView32 Workshop - February 1999
-    - Luther R. Norris - Servo Motor Technician - September 2005
-    - OACETT - **Certified Engineering Technologist** - October 2005
-    - The Dale Carnegie Course - September 2006
-    - Anixter - Industrial Automation Communications - June 2011
-    - Maple Leaf Foods - Bravo Bonus Award - November 2014
-    - Toastmasters International - Best Speech Award - December 2014
-    - Zen Bei Butokukai - **Shodan in Shorinji-Ryu Karate** - October 2016
-    - American Management Association - Situational Leadership Workshop - July 2019
-    - ADB Safegate - Standing Ovation, Leadership - May 2021
+
 ## Contact Information
 
 Justin Wood, C.E.T.
