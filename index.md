@@ -1,24 +1,107 @@
 ---
 layout: cv
-title: Curriculum Vitae for Justin Wood
+title: Justin Wood's CV
 ---
+# Justin Wood
+Physicist, Mathematician, Cambridge professor.
+
+<div id="webaddress">
+<a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
+| <a href="http://en.github.com/avstudio1">My github page</a>
+</div>
+
 
 ## Executive Summary
-    Justin is a natural leader and problem solver who enjoys a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers.
+
+Justin is a natural leader and problem solver who enjoys a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers.
+
+Justin believes that a good approach to success in business is to maintain a complete focus on the success of the customer. Since 1998, Justin Wood has worked as a consultant, manager and director. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
+
+### Specialized in
+
+Professional consultant in the field of technology and programmable controls. Capable of developing automated solutions for your business, from electrical design, programming and commissioning.
+Caring and compassionate leader of people that can support your sales and growth targets through effective interpersonal communications.
+Competent systems specialist to help maintain your critical systems.
+Provider of competent decision making for day to day business operations. 
+Over twenty years of progressive experience working with projects of increasing value and scope.
+Experience managing an entire business unit within a corporation. 
+Enjoys working with energetic and dynamic teams that like to solve complex and difficult client problems.
+Manages design functions and takes responsibility for projects with an approved scope of work.
+
+
+### Research interests
+
+Cooling, power series, optics, alchemy, planetary motions, apples.
+
+
+## Education
+
+`1654-1660`
+__The King's School, Grantham.__
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
+
+
+<!-- ### Footer
+
+Last updated: February 2022 -->
+
+# Curriculum Vitae for Justin Wood
+
+## Executive Summary
+
     
-    Justin believes that a good approach to success in business is to maintain a complete focus on the success of the customer. Since 1998, Justin Wood has worked as a consultant, manager and director. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
-    
-    - Professional consultant in the field of technology and programmable controls. Capable of developing automated solutions for your business, from electrical design, programming and commissioning.
-    - Caring and compassionate leader of people that can support your sales and growth targets through effective interpersonal communications.
-    - Competent systems specialist to help maintain your critical systems.
-    - Provider of competent decision making for day to day business operations. 
-    - Over twenty years of progressive experience working with projects of increasing value and scope.
-    - Experience managing an entire business unit within a corporation. 
-    - Enjoys working with energetic and dynamic teams that like to solve complex and difficult client problems.
-    - Manages design functions and takes responsibility for projects with an approved scope of work.
-    
-    **Problem solver**
-    - Provides training for your operations and management teams.
     
     **Technologies**
     - Data collection and reporting (Graph/Dashboard)
@@ -141,10 +224,4 @@ Justin Wood, C.E.T.
 Beamsville, ON  L0R 1B6
 Telephone: (905) 563-1903
 Email: justinfrombeamsville@gmail.com
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
 
