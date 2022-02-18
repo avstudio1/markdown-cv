@@ -56,6 +56,9 @@ Industrial Automation Communications, *Anixter*.
 *The Dale Carnegie Course*.
 
 `2005`
+__Certified Engineering Technologist__, OACETT.
+
+`2005`
 __Certified Engineering Technologist__, *OACETT*.
 
 `1999`
