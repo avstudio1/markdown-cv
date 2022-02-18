@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Curriculum Vitae for Justin Wood
+---
 
 ## Executive Summary
     Justin is a natural leader and problem solver who enjoys a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers.
