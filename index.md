@@ -37,33 +37,33 @@ Business Management Course, *Brock University*
 ### Certifications and Awards
 
 `2021`
-Standing Ovation Leadership, *ADB Safegate*
+Standing Ovation Leadership, *ADB Safegate*.
 
 `2019`
-Situational Leadership Workshop, *American Management Association*
+Situational Leadership Workshop, *American Management Association*.
 
 `2016`
-Shodan in Shorinji-Ryu Karate, *Zen Bei Butokukai*
+__Shodan in Shorinji-Ryu Karate__, *Zen Bei Butokukai*.
 
 `2014`
-Bravo Bonus Award. *Maple Leaf Foods*
-Best Speech Award, *Toastmasters International*
+Bravo Bonus Award. *Maple Leaf Foods*.
+Best Speech Award, *Toastmasters International*.
 
 `2011`
-Industrial Automation Communications, *Anixter*
+Industrial Automation Communications, *Anixter*.
 
 `2006`
-*The Dale Carnegie Course*
+*The Dale Carnegie Course*.
 
 `2005`
-Certified Engineering Technologist, *OACETT*
+__Certified Engineering Technologist__, *OACETT*.
 
 `1999`
-Introduction to ControlLogix, *Rockwell Automation*
-RSView32 Workshop, *Gerrie Electric*
+Introduction to ControlLogix, *Rockwell Automation*.
+RSView32 Workshop, *Gerrie Electric*.
 
 `1995`
-Time Management Seminar, *Daytimer’s of Canada*
+Time Management Seminar, *Daytimer’s of Canada*.
 
 ### Technologies
 Data collection and reporting, *API Development*
