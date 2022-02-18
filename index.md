@@ -38,22 +38,30 @@ Business Management Course, *Brock University*
 
 `2021`
 Standing Ovation Leadership, *ADB Safegate*
+
 `2019`
 Situational Leadership Workshop, *American Management Association*
+
 `2016`
 Shodan in Shorinji-Ryu Karate, *Zen Bei Butokukai*
+
 `2014`
 Bravo Bonus Award. *Maple Leaf Foods*
 Best Speech Award, *Toastmasters International*
+
 `2011`
 Industrial Automation Communications, *Anixter*
+
 `2006`
 *The Dale Carnegie Course*
+
 `2005`
 Certified Engineering Technologist, *OACETT*
+
 `1999`
 Introduction to ControlLogix, *Rockwell Automation*
 RSView32 Workshop, *Gerrie Electric*
+
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*
 
