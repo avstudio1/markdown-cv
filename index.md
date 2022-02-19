@@ -3,7 +3,7 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood
-Problem Solver, Mathematician, Cambridge professor.
+Problem Solver, Technology Influencer, Martial Arts Instructor.
 
 <div id="webaddress">
 <a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
@@ -64,25 +64,37 @@ Best Speech Award, Toastmasters International
 Industrial Automation Communications, Anixter
 
 `2006`
-*The Dale Carnegie Course*
+The Dale Carnegie Course, Dale Carnegie
 
 `2005`
 __Certified Engineering Technologist__, OACETT
 
 `1999`
-Introduction to ControlLogix, *Rockwell Automation*
+Introduction to ControlLogix, Rockwell Automation
 
-RSView32 Workshop, *Gerrie Electric*
+RSView32 Workshop, Gerrie Electric
 
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*.
 
 ## Technologies
-Data collection and reporting, __User experience and user interface__, Application programming interface, Database integration, *Programmable logic controllers (ControlLogix, Siemens, more)*, Electrical design in AutoCAD, Microsoft Visio, __Linux operating system (Debian)__, Web frameworks (Django), __Scripting languages (Python/PHP)__, Virtualization (Oracle/VMWare)
+- Data collection and reporting
+- __User experience and user interface__
+- Application programming interface
+- Database integration
+- Programmable logic controllers (ControlLogix, Siemens, more)
+- Electrical design in AutoCAD, Microsoft Visio
+- __Linux operating system (Debian)__
+- __Web frameworks (Django)__
+- __Scripting languages (Python/PHP)__
+- Virtualization (Oracle/VMWare)
 
 ## Hobbies and Interests
 
-Martial arts, Hedera Hashgraph, physics, alchemy
+- __Martial arts__
+- Hedera Hashgraph
+- Physics
+- Alchemy
 
 ## Work Experience
 
