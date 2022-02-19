@@ -31,106 +31,58 @@ Manages design functions and takes responsibility for projects with an approved 
 ## Education
 
 `1995-1998`
-Electronics Engineering Technology, *Niagara College Canada*
-Business Management Course, *Brock University*
+__Electronics Engineering Technology__, Niagara College Canada
+
+Business Management Course, Brock University
 
 ### Certifications and Awards
 
 `2021`
-Standing Ovation Leadership, *ADB Safegate*.
+Standing Ovation Leadership, ADB Safegate
 
 `2019`
-Situational Leadership Workshop, *American Management Association*.
+Situational Leadership Workshop, American Management Association
 
 `2016`
-__Shodan in Shorinji-Ryu Karate__, *Zen Bei Butokukai*.
+__Shodan in Shorinji-Ryu Karate__, Zen Bei Butokukai
 
 `2014`
-Bravo Bonus Award. *Maple Leaf Foods*.
-Best Speech Award, *Toastmasters International*.
+Bravo Bonus Award. Maple Leaf Foods
+
+Best Speech Award, Toastmasters International
 
 `2011`
-Industrial Automation Communications, *Anixter*.
+Industrial Automation Communications, Anixter
 
 `2006`
-*The Dale Carnegie Course*.
+*The Dale Carnegie Course*
 
 `2005`
-__Certified Engineering Technologist__, OACETT.
-
-`2005`
-__Certified Engineering Technologist__, *OACETT*.
+__Certified Engineering Technologist__, OACETT
 
 `1999`
-Introduction to ControlLogix, *Rockwell Automation*.
-RSView32 Workshop, *Gerrie Electric*.
+Introduction to ControlLogix, *Rockwell Automation*
+
+RSView32 Workshop, *Gerrie Electric*
 
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*.
 
 ### Technologies
-Data collection and reporting, *API Development*
-User experience and user interface, *HMI, UX/UI*
-Application programming interface, *Rest API*
-Database integration (MySQL, Postgres)
-Programmable logic controllers, *ControlLogix, Siemens, more*
-Electrical design, *AutoCAD, MSVisio*
-Linux operating system, *Debian*
-Web frameworks, *Django*
-Scripting, Python/PHP
-Virtualization (Oracle/VMWare)
+Data collection and reporting, __User experience and user interface__, Application programming interface, Database integration, *Programmable logic controllers (ControlLogix, Siemens, more)*, Electrical design in AutoCAD, Microsoft Visio, __Linux operating system (Debian)__, Web frameworks (Django), __Scripting languages (Python/PHP)__, Virtualization (Oracle/VMWare)
 
 ### Hobbies and Interests
 
 Martial arts, Hedera Hashgraph, physics, alchemy
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: February 2022 -->
-
-
-
 ## Work Experience
 
-**ADB Safegate Canada Ltd. (2018 – present)** 
+### ADB Safegate Canada Ltd
 
-    In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
+`2018-present`
+In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
      
-    Reporting Dashboard – ADB Safegate
-    Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client  allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
+__Reporting Dashboard__: Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client  allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
 **Justin Wood Consulting Limited (2013 - 2018)** 
 
@@ -208,3 +160,6 @@ Beamsville, ON  L0R 1B6
 Telephone: (905) 563-1903
 Email: justinfrombeamsville@gmail.com
 
+<!-- ### Footer
+
+Last updated: February 2022 -->
