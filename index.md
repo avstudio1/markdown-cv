@@ -2,7 +2,7 @@
 layout: cv
 title: Justin Wood`s CV
 ---
-# Justin Wood
+# Justin Wood, CET
 Problem Solver, Technology Influencer, Martial Arts Instructor.
 
 <div id="webaddress">
@@ -13,7 +13,6 @@ Problem Solver, Technology Influencer, Martial Arts Instructor.
 
 
 ## Executive Summary
-
 Justin is a natural leader and problem solver who enjoys a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers.
 
 Justin believes that a good approach to success in business is to maintain a complete focus on the success of the customer. Since 1998, Justin Wood has worked as a consultant, manager and director. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
@@ -38,7 +37,29 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 
 Manages design functions and takes responsibility for projects with an approved scope of work.
 
-## Work Experience
+### Technology
+
+Data collection and reporting
+
+__User experience and user interface__
+
+Application programming interface
+
+Database integration
+
+Programmable logic controllers (ControlLogix, Siemens, more)
+
+Electrical design in AutoCAD, Microsoft Visio
+
+__Linux operating system (Debian)__
+
+__Web frameworks (Django)__
+
+__Scripting languages (Python/PHP)__
+
+Virtualization (Oracle/VMWare)
+
+## Professional Experience
 
 `2018-present`
 <span style="font-size:larger;">__ADB Safegate Canada Ltd__, Burlington, Ontario</span>
@@ -131,7 +152,6 @@ Bench testing and simulating software models for lightning detector manufacturer
 
 - Responsible for all North American telephone sales efforts, thus increasing company revenues.
 - Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
-
 ## Education
 
 `1995-1998`
@@ -172,19 +192,7 @@ RSView32 Workshop, Gerrie Electric
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*.
 
-### Technologies
-- Data collection and reporting
-- __User experience and user interface__
-- Application programming interface
-- Database integration
-- Programmable logic controllers (ControlLogix, Siemens, more)
-- Electrical design in AutoCAD, Microsoft Visio
-- __Linux operating system (Debian)__
-- __Web frameworks (Django)__
-- __Scripting languages (Python/PHP)__
-- Virtualization (Oracle/VMWare)
-
-### Hobbies and Interests
+## Hobbies and Interests
 
 - __Martial arts__
 - Hedera Hashgraph
