@@ -8,6 +8,7 @@ Problem Solver, Technology Influencer, Martial Arts Instructor.
 <div id="webaddress">
 <a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
 | <a href="http://en.github.com/avstudio1">My github page</a>
+| <a href="tel:905-563-1903">Telephone: 905-563-1903</a>
 </div>
 
 
@@ -17,7 +18,7 @@ Justin is a natural leader and problem solver who enjoys a challenging technical
 
 Justin believes that a good approach to success in business is to maintain a complete focus on the success of the customer. Since 1998, Justin Wood has worked as a consultant, manager and director. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
 
-## Highlights
+### Highlights
 
 Professional consultant in the field of technology and programmable controls.
 
@@ -37,65 +38,6 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 
 Manages design functions and takes responsibility for projects with an approved scope of work.
 
-## Education
-
-`1995-1998`
-__Electronics Engineering Technology__, Niagara College Canada
-
-Business Management Course, Brock University
-
-## Certifications and Awards
-
-`2021`
-Standing Ovation Leadership, ADB Safegate
-
-`2019`
-Situational Leadership Workshop, American Management Association
-
-`2016`
-__Shodan in Shorinji-Ryu Karate__, Zen Bei Butokukai
-
-`2014`
-Bravo Bonus Award. Maple Leaf Foods
-
-Best Speech Award, Toastmasters International
-
-`2011`
-Industrial Automation Communications, Anixter
-
-`2006`
-The Dale Carnegie Course, Dale Carnegie
-
-`2005`
-__Certified Engineering Technologist__, OACETT
-
-`1999`
-Introduction to ControlLogix, Rockwell Automation
-
-RSView32 Workshop, Gerrie Electric
-
-`1995`
-Time Management Seminar, *Daytimer’s of Canada*.
-
-## Technologies
-- Data collection and reporting
-- __User experience and user interface__
-- Application programming interface
-- Database integration
-- Programmable logic controllers (ControlLogix, Siemens, more)
-- Electrical design in AutoCAD, Microsoft Visio
-- __Linux operating system (Debian)__
-- __Web frameworks (Django)__
-- __Scripting languages (Python/PHP)__
-- Virtualization (Oracle/VMWare)
-
-## Hobbies and Interests
-
-- __Martial arts__
-- Hedera Hashgraph
-- Physics
-- Alchemy
-
 ## Work Experience
 
 `2018-present`
@@ -106,7 +48,7 @@ In 2018, Justin Wood took responsibility for managing the offices for ADB Safega
 __Project: Docking Performance Dashboard__
 Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
-`2013-2018`)
+`2013-2018`
 
 <span style="font-size:larger;">__Justin Wood Consulting Limited__</span>
 
@@ -189,15 +131,65 @@ Bench testing and simulating software models for lightning detector manufacturer
 
 - Responsible for all North American telephone sales efforts, thus increasing company revenues.
 - Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
-    
 
-## Contact Information
+## Education
 
-Justin Wood, C.E.T.
-4328 Arejay Ave.
-Beamsville, ON  L0R 1B6
-Telephone: (905) 563-1903
-Email: justinfrombeamsville@gmail.com
+`1995-1998`
+__Electronics Engineering Technology__, Niagara College Canada
+
+Business Management Course, Brock University
+
+### Certifications and Awards
+
+`2021`
+Standing Ovation Leadership, ADB Safegate
+
+`2019`
+Situational Leadership Workshop, American Management Association
+
+`2016`
+__Shodan in Shorinji-Ryu Karate__, Zen Bei Butokukai
+
+`2014`
+Bravo Bonus Award. Maple Leaf Foods
+
+Best Speech Award, Toastmasters International
+
+`2011`
+Industrial Automation Communications, Anixter
+
+`2006`
+The Dale Carnegie Course, Dale Carnegie
+
+`2005`
+__Certified Engineering Technologist__, OACETT
+
+`1999`
+Introduction to ControlLogix, Rockwell Automation
+
+RSView32 Workshop, Gerrie Electric
+
+`1995`
+Time Management Seminar, *Daytimer’s of Canada*.
+
+### Technologies
+- Data collection and reporting
+- __User experience and user interface__
+- Application programming interface
+- Database integration
+- Programmable logic controllers (ControlLogix, Siemens, more)
+- Electrical design in AutoCAD, Microsoft Visio
+- __Linux operating system (Debian)__
+- __Web frameworks (Django)__
+- __Scripting languages (Python/PHP)__
+- Virtualization (Oracle/VMWare)
+
+### Hobbies and Interests
+
+- __Martial arts__
+- Hedera Hashgraph
+- Physics
+- Alchemy
 
 <!-- ### Footer
 
