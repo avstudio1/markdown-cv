@@ -3,7 +3,7 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood
-Physicist, Mathematician, Cambridge professor.
+Problem Solver, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
@@ -17,15 +17,24 @@ Justin is a natural leader and problem solver who enjoys a challenging technical
 
 Justin believes that a good approach to success in business is to maintain a complete focus on the success of the customer. Since 1998, Justin Wood has worked as a consultant, manager and director. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
 
-### Specialized in
+## Highlights
 
-Professional consultant in the field of technology and programmable controls. Capable of developing automated solutions for your business, from electrical design, programming and commissioning.
+Professional consultant in the field of technology and programmable controls.
+
+Capable of developing automated solutions for your business, from electrical design, programming and commissioning.
+
 Caring and compassionate leader of people that can support your sales and growth targets through effective interpersonal communications.
+
 Competent systems specialist to help maintain your critical systems.
-Provider of competent decision making for day to day business operations. 
+
+Provider of competent decision making for day to day business operations.
+
 Over twenty years of progressive experience working with projects of increasing value and scope.
+
 Experience managing an entire business unit within a corporation.
+
 Enjoys working with energetic and dynamic teams that like to solve complex and difficult client problems.
+
 Manages design functions and takes responsibility for projects with an approved scope of work.
 
 ## Education
@@ -35,7 +44,7 @@ __Electronics Engineering Technology__, Niagara College Canada
 
 Business Management Course, Brock University
 
-### Certifications and Awards
+## Certifications and Awards
 
 `2021`
 Standing Ovation Leadership, ADB Safegate
@@ -68,10 +77,10 @@ RSView32 Workshop, *Gerrie Electric*
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*.
 
-### Technologies
+## Technologies
 Data collection and reporting, __User experience and user interface__, Application programming interface, Database integration, *Programmable logic controllers (ControlLogix, Siemens, more)*, Electrical design in AutoCAD, Microsoft Visio, __Linux operating system (Debian)__, Web frameworks (Django), __Scripting languages (Python/PHP)__, Virtualization (Oracle/VMWare)
 
-### Hobbies and Interests
+## Hobbies and Interests
 
 Martial arts, Hedera Hashgraph, physics, alchemy
 
@@ -141,13 +150,13 @@ Working directly with a highly specialized integrator in the field of offset web
 
 `1999-2000`
 
-<span style="font-size:larger;">Gerrie Electric Wholesale Ltd, Burlington, Ontario</span>
+<span style="font-size:larger;">__Gerrie Electric Wholesale Ltd__, Burlington, Ontario</span>
 - Responsible for maintaining the software support contracts and generating that business.
 - Preparing quotations and fulfilling customer orders.
 
 `Summer 1998`
 
-<span style="font-size:larger;">Brock University Electronics Dept, St. Catharines, Ontario</span>
+<span style="font-size:larger;">__Brock University Electronics Dept__, St. Catharines, Ontario</span>
 - Performing routine maintenance of laboratory equipment.
 - Working alongside university faculty providing electronics projects to fill research needs.
 
@@ -157,14 +166,14 @@ Bench testing and simulating software models for lightning detector manufacturer
 
 `Summer 1997`
 
-<span style="font-size:larger;">Cyberport Niagara, Niagara Falls, Ontario</span>
+<span style="font-size:larger;">__Cyberport Niagara__, Niagara Falls, Ontario</span>
 
 - Responsible for maintenance and upgrade of the networked, computerised flight simulator programs.
 - Performed tours of the facility.
 
 `1994`
 
-<span style="font-size:larger;">Camroux and Company Ltd, Niagara Falls, Ontario</span>
+<span style="font-size:larger;">__Camroux and Company Ltd__, Niagara Falls, Ontario</span>
 
 - Responsible for all North American telephone sales efforts, thus increasing company revenues.
 - Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
