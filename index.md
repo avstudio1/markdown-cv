@@ -78,7 +78,7 @@ Martial arts, Hedera Hashgraph, physics, alchemy
 ## Work Experience
 
 `2018-present`
-__ADB Safegate Canada Ltd__, Burlington, Ontario
+<span style="font-size:larger;">__ADB Safegate Canada Ltd__, Burlington, Ontario</span>
 
 In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
      
@@ -96,6 +96,7 @@ __Project:Plant Commissioning__, Everworks Inc
 Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion.
     
 __Project: Beam Welder__, Irco Automation
+
 Justin completed this end-to-end project for a fully automated beam welder, including electrical and software implementation. Provided client consultation to develop the operator experience and to maintain the equipment specifications. Successfully developed an enterprise resource planning system to interface with the beam welder controls.
 
 `2006-2013`
