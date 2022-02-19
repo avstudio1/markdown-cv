@@ -78,37 +78,43 @@ Martial arts, Hedera Hashgraph, physics, alchemy
 ## Work Experience
 
 `2018-present`
-__ADB Safegate Canada Ltd__
+__ADB Safegate Canada Ltd__, Burlington, Ontario
 
 In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
      
-__Reporting Dashboard__: Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client  allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
+__Project: Docking Performance Dashboard__
+Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
-**Justin Wood Consulting Limited (2013 - 2018)** 
+`2013-2018`)
 
-    Justin successfully managed two automation projects worth $1.1 million for a major automotive manufacturer while consulting with other systems integrators. Both projects were completed on time and under budget. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
+__Justin Wood Consulting Limited__
+
+Justin successfully managed two automation projects worth $1.1 million for a major automotive manufacturer while consulting with other systems integrators. Both projects were completed on time and under budget. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
+
+__Project:Plant Commissioning__, Everworks Inc 
+
+Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion.
+    
+__Project: Beam Welder__, Irco Automation
+Justin completed this end-to-end project for a fully automated beam welder, including electrical and software implementation. Provided client consultation to develop the operator experience and to maintain the equipment specifications. Successfully developed an enterprise resource planning system to interface with the beam welder controls.
+
+`2006-2013`
+
+__Duke Electric Ltd__
+
+Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
      
-    Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion.
-    
-    Beam Welder – Irco Automation
-    Justin completed this end-to-end project for a fully automated beam welder, including electrical and software implementation. Provided client consultation to develop the operator experience and to maintain the equipment specifications. Successfully developed an enterprise resource planning system to interface with the beam welder controls. 
-    
-    Food Processing Automation – Maple Leaf Foods
-    An integral part of the commissioning team, Justin was responsible for providing the project with commissioning documentation for all of the installed equipment while working with multiple vendors. Justin provided completion documentation on equipment deficiencies, and worked closely with the MES (Manufacturing Execution Systems) team to produce relevant and meaningful data in a Six Sigma environment.  
+__Project: Magnesium Roll Forming Line__, Natural Resources Canada
 
- 
-**Duke Electric Ltd. (2006 - 2013)** 
+Secured a retrofit project from Natural Resources Canada to increase the capabilities of their magnesium roll forming production line. A critical component in the manufacture of new metal alloys for use in industry. Justin managed software engineers and electrical contractor to complete this system installation.
+    
+__Project: Cut-to-length and Slitting Retrofit__, Samuel Steel
 
-    Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
-     
-    Magnesium Roll Forming Line – Natural Resources Canada (Duke Electric) 
-    Secured a retrofit project from Natural Resources Canada to increase the capabilities of their magnesium roll forming production line. A critical component in the manufacture of new metal alloys for use in industry. Justin managed software engineers and electrical contractor to complete this system installation.
+From design to implementation, Justin Wood created increased value to ageing equipment by creating control system retrofit packages for his clients. Managing electrical and programming of steel handling equipment. Working with electrical safety engineers to create Health and Safety review for customer equipment and to develop category III/IV electrical safety systems.  
     
-    Cut-to-length and Slitting lines– Samuel Steel (Duke Electric)
-    From design to implementation, Justin Wood created increased value to ageing equipment by creating control system retrofit packages for his clients. Managing electrical and programming of steel handling equipment. Working with electrical safety engineers to create Health and Safety review for customer equipment and to develop category III/IV electrical safety systems.  
-    
-    Web-based Reporting with PHP  - Amcan Castings - 2006 (Duke Electric)
-    Created a PHP based web interface to generate daily reports from manufacturing data, collected via a ControlLogix PLC and stored in Microsoft SQL database.
+__Project: Web-based Reporting with PHP__, Amcan Castings
+
+Created a PHP based web interface to generate daily reports from manufacturing data, collected via a ControlLogix PLC and stored in Microsoft SQL database.
 
 **A.C.S. Automated Control Systems, (2000 – 2005)**
 
