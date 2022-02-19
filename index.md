@@ -85,7 +85,7 @@ Justin completed this end-to-end project for a fully automated beam welder, incl
 
 `2006-2013`
 
-<span style="font-size:larger;">__Duke Electric Ltd__</span>
+<span style="font-size:larger;">__Duke Electric Ltd__, Hamilton, Ontario</span>
 
 Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
      
@@ -121,19 +121,19 @@ In 2003, Justin developed a control program for viscosity control in the printin
     
 __Project: Printing Press Control System__, GES Control Systems
 
-Working directly with a highly specialized integrator in the field of offset web printing, Justin Wood helped to develop several new technology features for the industry including a graphical interface, web-controls and reliable communications networks.
+Working directly with a highly specialized integrator in the field of offset web printing, Justin helped to develop several new technology features for the industry including a graphical interface, web-controls and reliable communications networks.
 
 `1999-2000`
 
 <span style="font-size:larger;">__Gerrie Electric Wholesale Ltd__, Burlington, Ontario</span>
-- Responsible for maintaining the software support contracts and generating that business.
-- Preparing quotations and fulfilling customer orders.
+
+Responsible for maintaining the software support contracts and generating that business, preparing quotations and fulfilling customer orders.
 
 `Summer 1998`
 
 <span style="font-size:larger;">__Brock University Electronics Dept__, St. Catharines, Ontario</span>
-- Performing routine maintenance of laboratory equipment.
-- Working alongside university faculty providing electronics projects to fill research needs.
+
+Performing routine maintenance of laboratory equipment. Working alongside university faculty providing electronics projects to fill research needs.
 
 __Project: Lightning Detection__, Boltek Corporation
 
@@ -143,15 +143,14 @@ Bench testing and simulating software models for lightning detector manufacturer
 
 <span style="font-size:larger;">__Cyberport Niagara__, Niagara Falls, Ontario</span>
 
-- Responsible for maintenance and upgrade of the networked, computerised flight simulator programs.
-- Performed tours of the facility.
+Responsible for maintenance and upgrade of the networked, computerised flight simulator programs. Performed tours of the facility.
 
 `1994`
 
 <span style="font-size:larger;">__Camroux and Company Ltd__, Niagara Falls, Ontario</span>
 
-- Responsible for all North American telephone sales efforts, thus increasing company revenues.
-- Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
+Responsible for all North American telephone sales efforts, thus increasing company revenues. Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
+
 ## Education
 
 `1995-1998`
