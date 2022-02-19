@@ -87,7 +87,7 @@ Justin developed an online reporting application that retrieved data in the clou
 
 `2013-2018`)
 
-__Justin Wood Consulting Limited__
+<span style="font-size:larger;">__Justin Wood Consulting Limited__</span>
 
 Justin successfully managed two automation projects worth $1.1 million for a major automotive manufacturer while consulting with other systems integrators. Both projects were completed on time and under budget. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
 
@@ -101,7 +101,7 @@ Justin completed this end-to-end project for a fully automated beam welder, incl
 
 `2006-2013`
 
-__Duke Electric Ltd__
+<span style="font-size:larger;">__Duke Electric Ltd__</span>
 
 Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
      
@@ -117,46 +117,57 @@ __Project: Web-based Reporting with PHP__, Amcan Castings
 
 Created a PHP based web interface to generate daily reports from manufacturing data, collected via a ControlLogix PLC and stored in Microsoft SQL database.
 
-**A.C.S. Automated Control Systems, (2000 – 2005)**
+`2000–2005`
 
-    Justin Wood worked with clients of all types as a part of this small, energetic consulting team. During this time, Justin was one the primary provider of programmable controls, human interface and automated software solutions for our customers. He worked on developing new standards for PLC programming using ControlLogix and created training courses for customers. Justin also worked closely in the development of the business, creating quotations, technical presentations and working directly with the customers to secure new business. 
+<span style="font-size:larger;">__A.C.S. Automated Control Systems__, Burlington, Ontario</span>
 
+Justin Wood worked with clients of all types as a part of this small, energetic consulting team. During this time, Justin was one the primary provider of programmable controls, human interface and automated software solutions for our customers. He worked on developing new standards for PLC programming using ControlLogix and created training courses for customers. Justin also worked closely in the development of the business, creating quotations, technical presentations and working directly with the customers to secure new business. 
 
-    Airfield Lighting – Liberty Airport Systems
-    Leveraged skills in airport services to provide software control and supervisory monitoring automation for airports within Canada and the United States. Implementing programmable controls and operator interface systems for airports within Canada and the United States. Working with consulting engineers to provide project submittals and technical documentation. Leveraged inter-personal skills in airport services to provide software control and supervisory monitoring automation applications. 
+__Project: Airfield Lighting__, Liberty Airport Systems
+
+Leveraged skills in airport services to provide software control and supervisory monitoring automation for airports within Canada and the United States. Implementing programmable controls and operator interface systems for airports within Canada and the United States. Working with consulting engineers to provide project submittals and technical documentation. Leveraged inter-personal skills in airport services to provide software control and supervisory monitoring automation applications. 
+
+__Project: Automated Crane Warehouse__, CareGo Tek
+
+Responsible for the development and commissioning of the crane control system, providing a fully automated storage solution for the storage and retrieval of 25 tonne steel coils. Implementing advanced automation technology including laser vision and integration to an SQL database storage system.
+
+__Project: Viscosity Control__, International Printing Technologies
+
+In 2003, Justin developed a control program for viscosity control in the printing industry using the SLC/500 PLC and Wonderware. Justin then used the designs from this application to write his technical report to receive his Certified Engineering Technologist status from OACETT.
     
-    Automated Crane Warehouse – CareGo Tek
-    Responsible for the development and commissioning of the crane control system, providing a fully automated storage solution for the storage and retrieval of 25 tonne steel coils. Implementing advanced automation technology including laser vision and integration to an SQL database storage system. 
-     
-    Viscosity Control - International Printing Technologies
-    In 2003, Justin developed a control program for viscosity control in the printing industry using the SLC/500 PLC and Wonderware. Justin then used the designs from this application to write his technical report to receive his Certified Engineering Technologist status from OACETT.
-    
-    Printing Press Controls– GES Control Systems
-    Working directly with a highly specialized integrator in the field of offset web printing, Justin Wood helped to develop several new technology features for the industry including a graphical interface, web-controls and reliable communications networks.
+__Project: Printing Press Control System__, GES Control Systems
 
-**Gerrie Electric Wholesale Ltd. (1999 - 2000)**
+Working directly with a highly specialized integrator in the field of offset web printing, Justin Wood helped to develop several new technology features for the industry including a graphical interface, web-controls and reliable communications networks.
 
+`1999-2000`
+
+<span style="font-size:larger;">Gerrie Electric Wholesale Ltd, Burlington, Ontario</span>
 - Responsible for maintaining the software support contracts and generating that business.
 - Preparing quotations and fulfilling customer orders.
 
-**Brock University Electronics Dept., Co-op student (Summer 1998)**
+`Summer 1998`
 
+<span style="font-size:larger;">Brock University Electronics Dept, St. Catharines, Ontario</span>
 - Performing routine maintenance of laboratory equipment.
 - Working alongside university faculty providing electronics projects to fill research needs.
 
+__Project: Lightning Detection__, Boltek Corporation
 
-    Lightning Detection - Boltek Corporation
-    Bench testing and simulating software models for lightning detector manufacturer. Assembly of packaged electronics products for scientific and corporate clients.
+Bench testing and simulating software models for lightning detector manufacturer. Assembly of packaged electronics products for scientific and corporate clients.
 
-**Cyberport Niagara, Co-op student (Summer 1997)**
+`Summer 1997`
 
-    - Responsible for maintenance and upgrade of the networked, computerised flight simulator programs.
-    - Performed tours of the facility.
+<span style="font-size:larger;">Cyberport Niagara, Niagara Falls, Ontario</span>
 
-**Camroux and Company Ltd. (1994)**
+- Responsible for maintenance and upgrade of the networked, computerised flight simulator programs.
+- Performed tours of the facility.
 
-    - Responsible for all North American telephone sales efforts, thus increasing company revenues.
-    - Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
+`1994`
+
+<span style="font-size:larger;">Camroux and Company Ltd, Niagara Falls, Ontario</span>
+
+- Responsible for all North American telephone sales efforts, thus increasing company revenues.
+- Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
     
 
 ## Contact Information
