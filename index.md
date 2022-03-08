@@ -3,12 +3,12 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood, CET
-Problem Solver, Technology Influencer, Martial Arts Instructor.
+Automation Technologist. Programmer. Problem Solver.
 
 <div id="webaddress">
 <a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
-| <a href="http://en.github.com/avstudio1">My github page</a>
-| <a href="tel:905-563-1903">Telephone: 905-563-1903</a>
+| <a href="avstudio1.github.io/markdown-cv">Justin Wood`s CV</a>
+| <a href="tel:647-598-8825">Telephone: 647-598-8825</a>
 </div>
 
 
