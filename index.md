@@ -3,11 +3,10 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood, CET
-Customer Focused. Problem Solver.
+Customer Focused Problem Solver.
 
 <div id="webaddress">
-<a href="mailto:justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
-| <a href="avstudio1.github.io/markdown-cv">Justin Wood`s CV</a>
+<a href="mailto:justinfrombeamsville@gmail.com">Mail: justinfrombeamsville@gmail.com</a>
 | <a href="tel:647-598-8825">Telephone: 647-598-8825</a>
 </div>
 
@@ -36,28 +35,6 @@ Experience managing an entire business unit within a corporation.
 Enjoys working with energetic and dynamic teams that like to solve complex and difficult client problems.
 
 Manages design functions and takes responsibility for projects with an approved scope of work.
-
-### Technology
-
-Data collection and reporting
-
-__User experience and user interface__
-
-Application programming interface
-
-Database integration
-
-Programmable logic controllers (ControlLogix, Siemens, more)
-
-Electrical design in AutoCAD, Microsoft Visio
-
-__Linux operating system (Debian)__
-
-__Web frameworks (Django)__
-
-__Scripting languages (Python/PHP)__
-
-Virtualization (Oracle/VMWare)
 
 ## Professional Experience
 
@@ -191,12 +168,36 @@ RSView32 Workshop, Gerrie Electric
 `1995`
 Time Management Seminar, *Daytimer’s of Canada*.
 
-## Hobbies and Interests
+### Hobbies and Interests
 
-- __Martial arts__
-- Hedera Hashgraph
-- Physics
-- Alchemy
+Martial arts
+
+Hedera Hashgraph
+
+Mountain Biking
+
+### Technologies
+
+Data collection and reporting.
+
+User experience and user interface.
+
+Application programming interface.
+
+Database integration.
+
+Programmable logic controllers (ControlLogix, Siemens, more).
+
+Electrical design in AutoCAD, Microsoft Visio.
+
+Linux operating system (Debian).
+
+Web frameworks (Django).
+
+Scripting languages (Python/PHP)
+
+Virtualization (Oracle/VMWare)
+
 
 <!-- ### Footer
 
