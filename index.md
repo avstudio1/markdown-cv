@@ -3,7 +3,7 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood, CET
-Customer Focused Problem Solver.
+Customer focused problem solver.
 
 <div id="webaddress">
 <a href="mailto:justinfrombeamsville@gmail.com">Mail: justinfrombeamsville@gmail.com</a>
