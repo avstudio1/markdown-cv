@@ -3,10 +3,10 @@ layout: cv
 title: Justin Wood`s CV
 ---
 # Justin Wood, CET
-Automation Technologist. Programmer. Problem Solver.
+Customer Focused. Problem Solver.
 
 <div id="webaddress">
-<a href="justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
+<a href="mailto:justinfrombeamsville@gmail.com">justinfrombeamsville@gmail.com</a>
 | <a href="avstudio1.github.io/markdown-cv">Justin Wood`s CV</a>
 | <a href="tel:647-598-8825">Telephone: 647-598-8825</a>
 </div>
