@@ -48,7 +48,7 @@ Justin developed an online reporting application that retrieved data in the clou
 
 <span style="font-size:larger;">__Justin Wood Consulting Limited__</span>
 
-Justin successfully managed two automation projects worth $1.1 million for a major automotive manufacturer while consulting with other systems integrators. Both projects were completed on time and under budget. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
+Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
 
 __Project:Plant Commissioning__, Everworks Inc 
 
