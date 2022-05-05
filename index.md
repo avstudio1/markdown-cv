@@ -49,9 +49,7 @@ title: Curriculum Vitae for Justin Wood
 
 **Justin Wood Consulting Limited (2013 - 2018)** 
 
-    Justin successfully managed two automation projects worth $1.1 million for a major automotive manufacturer while consulting with other systems integrators. Both projects were completed on time and under budget. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
-     
-    Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion.
+    Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion. Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once.
     
     Beam Welder – Irco Automation
     Justin completed this end-to-end project for a fully automated beam welder, including electrical and software implementation. Provided client consultation to develop the operator experience and to maintain the equipment specifications. Successfully developed an enterprise resource planning system to interface with the beam welder controls. 
