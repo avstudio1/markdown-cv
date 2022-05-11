@@ -42,6 +42,7 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
      
 Project: Docking Performance Dashboard
+
 Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
 `2013-2018`
