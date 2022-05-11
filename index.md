@@ -185,6 +185,8 @@ Application programming interface.
 
 Database integration.
 
+SCADA and HMI.
+
 Programmable logic controllers (ControlLogix, Siemens, more).
 
 Electrical design in AutoCAD, Microsoft Visio.
