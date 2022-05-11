@@ -7,12 +7,12 @@ Customer focused problem solver.
 
 <div id="webaddress">
 <a href="mailto:justinfrombeamsville@gmail.com">Mail: justinfrombeamsville@gmail.com</a>
-| <a href="tel:647-598-8825">Telephone: 647-598-8825</a>
+| <a href="tel:647-598-8825">Home: 905-563-1903</a>
 </div>
 
 
 ## Executive Summary
-Justin is a natural leader and problem solver who enjoys a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers and where interpersonal communication leads to increased success.
+Justin is a natural leader and problem solver who enjoys solving a challenging technical problem. His preferred career path is to work in business development, automation design and commissioning of systems. Justin thrives where where business intelligence and technology meets, where he is able to use his technical expertise to satisfy his customers and where interpersonal communication leads to increased success.
 
 Justin believes that a good approach to success in business is to maintain a complete focus on the customer. Since 1998, Justin Wood has worked as a technologist, manager and consultant. He has proven his value in many industries including airfield lighting, packaging, material handling, software applications, data collection, reporting, manufacturing, printing and recycling.
 
