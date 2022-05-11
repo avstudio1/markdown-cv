@@ -41,7 +41,7 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 
 In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
      
-__Project: Docking Performance Dashboard__
+Project: Docking Performance Dashboard
 Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
 `2013-2018`
@@ -50,11 +50,11 @@ Justin developed an online reporting application that retrieved data in the clou
 
 Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
 
-__Project:Plant Commissioning__, Everworks Inc 
+Project:Plant Commissioning, Everworks Inc 
 
 Justin assisted with the commissioning of a multi-disciplined automation project for a leading food manufacturer. The total value of all automation projects exceeded $20 million. Developed key project management skills while working with equipment vendors and engaging with customer requirements to drive project completion.
     
-__Project: Beam Welder__, Irco Automation
+Project: Beam Welder, Irco Automation
 
 Justin completed this end-to-end project for a fully automated beam welder, including electrical and software implementation. Provided client consultation to develop the operator experience and to maintain the equipment specifications. Successfully developed an enterprise resource planning system to interface with the beam welder controls.
 
@@ -64,15 +64,15 @@ Justin completed this end-to-end project for a fully automated beam welder, incl
 
 Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
      
-__Project: Magnesium Roll Forming Line__, Natural Resources Canada
+Project: Magnesium Roll Forming Line, Natural Resources Canada
 
 Secured a retrofit project from Natural Resources Canada to increase the capabilities of their magnesium roll forming production line. A critical component in the manufacture of new metal alloys for use in industry. Justin managed software engineers and electrical contractor to complete this system installation.
     
-__Project: Cut-to-length and Slitting Retrofit__, Samuel Steel
+Project: Cut-to-length and Slitting Retrofit, Samuel Steel
 
 From design to implementation, Justin Wood created increased value to ageing equipment by creating control system retrofit packages for his clients. Managing electrical and programming of steel handling equipment. Working with electrical safety engineers to create Health and Safety review for customer equipment and to develop category III/IV electrical safety systems.  
     
-__Project: Web-based Reporting with PHP__, Amcan Castings
+Project: Web-based Reporting with PHP, Amcan Castings
 
 Created a PHP based web interface to generate daily reports from manufacturing data, collected via a ControlLogix PLC and stored in Microsoft SQL database.
 
@@ -82,19 +82,19 @@ Created a PHP based web interface to generate daily reports from manufacturing d
 
 Justin Wood worked with clients of all types as a part of this small, energetic consulting team. During this time, Justin was one the primary provider of programmable controls, human interface and automated software solutions for our customers. He worked on developing new standards for PLC programming using ControlLogix and created training courses for customers. Justin also worked closely in the development of the business, creating quotations, technical presentations and working directly with the customers to secure new business. 
 
-__Project: Airfield Lighting__, Liberty Airport Systems
+Project: Airfield Lighting, Liberty Airport Systems
 
 Leveraged skills in airport services to provide software control and supervisory monitoring automation for airports within Canada and the United States. Implementing programmable controls and operator interface systems for airports within Canada and the United States. Working with consulting engineers to provide project submittals and technical documentation. Leveraged inter-personal skills in airport services to provide software control and supervisory monitoring automation applications. 
 
-__Project: Automated Crane Warehouse__, CareGo Tek
+Project: Automated Crane Warehouse, CareGo Tek
 
 Responsible for the development and commissioning of the crane control system, providing a fully automated storage solution for the storage and retrieval of 25 tonne steel coils. Implementing advanced automation technology including laser vision and integration to an SQL database storage system.
 
-__Project: Viscosity Control__, International Printing Technologies
+Project: Viscosity Control, International Printing Technologies
 
 In 2003, Justin developed a control program for viscosity control in the printing industry using the SLC/500 PLC and Wonderware. Justin then used the designs from this application to write his technical report to receive his Certified Engineering Technologist status from OACETT.
     
-__Project: Printing Press Control System__, GES Control Systems
+Project: Printing Press Control System, GES Control Systems
 
 Working directly with a highly specialized integrator in the field of offset web printing, Justin helped to develop several new technology features for the industry including a graphical interface, web-controls and reliable communications networks.
 
