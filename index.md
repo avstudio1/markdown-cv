@@ -6,8 +6,8 @@ title: Justin Wood`s CV
 Customer focused problem solver.
 
 <div id="webaddress">
-<a href="mailto:justin@justinwood.ca">Mail: justin@justinwood.ca</a>
-| <a href="tel:647-598-0969">Phone: 647-598-0969</a>
+<a href="mailto:justinfrombeamsville@gmail.com">Mail: justinfrombeamsville@gmail.com</a>
+| <a href="tel:289-442-7135">Phone: 289-442-7135</a>
 </div>
 
 
