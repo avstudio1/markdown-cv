@@ -136,14 +136,14 @@ Business Management Course, Brock University
 
 ### Certifications and Awards
 
+`2022`
+__Nidan in Shorinji-Ryu Karate__, Zen Bei Butokukai
+
 `2021`
 Standing Ovation Leadership, ADB Safegate
 
 `2019`
 Situational Leadership Workshop, American Management Association
-
-`2016`
-__Shodan in Shorinji-Ryu Karate__, Zen Bei Butokukai
 
 `2014`
 Bravo Bonus Award. Maple Leaf Foods
