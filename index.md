@@ -36,10 +36,10 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 
 ## Professional Experience
 
-`2018-present`
+`2018-2023`
 <span style="font-size:larger;">__ADB Safegate Canada Ltd__, Burlington, Ontario</span>
 
-In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin continues to work with stakeholders to help solidify opportunities for technical and customer success.
+In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin worked with multiple airport stakeholders to help solidify opportunities for technical and customer success.
      
 Project: Docking Performance Dashboard
 
