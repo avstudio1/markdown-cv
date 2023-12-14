@@ -177,14 +177,6 @@ Mountain Biking
 
 ### Technologies
 
-Data collection and reporting.
-
-User experience and user interface.
-
-Application programming interface.
-
-Database integration.
-
 SCADA and HMI.
 
 Programmable logic controllers (ControlLogix, Siemens, more).
