@@ -37,17 +37,22 @@ Enjoys working with energetic and dynamic teams that like to solve complex and d
 ## Professional Experience
 
 `2018-2023`
-<span style="font-size:larger;">__ADB Safegate Canada Ltd__, Burlington, Ontario</span>
+<span style="font-size:larger;">__ADB Safegate Canada Ltd__, Managing Director Canada</span>
 
 In 2018, Justin Wood took responsibility for managing the offices for ADB Safegate Canada with the result of helping to build strong relationships with both our internal and external customers. With the goal of aligning with the global corporate vision for growth, Justin worked with multiple airport stakeholders to help solidify opportunities for technical and customer success.
      
+     
+Project: Airfield Lighting Construction Project
+
+Justin built the Canadian operations team into a construction company, meeting the electrical construction standards set forth by the Greater Toronto Airport Authority in order to receive a Facility Alteration Permit (FAP). Spanning multiple years, Justin oversaw the construction efforts of a multi-mullion dollar airfield lighting upgrade at the airport (Toronto Pearson Int'l Airport). The project included a complete retrofit of the electrical system that powers the airfield lighting spanning five different buildings.
+
 Project: Docking Performance Dashboard
 
 Justin developed an online reporting application that retrieved data in the cloud from multiple airports and sent out daily PDF reports to users. Written in Python and HTML, the reporting client allowed the customer to access critical data points relating to the successful operation of their visual docking and gating systems.
 
 `2013-2018`
 
-<span style="font-size:larger;">__Justin Wood Consulting Limited__</span>
+<span style="font-size:larger;">__Justin Wood Consulting Limited__, President</span>
 
 Created critical processes for generating sales proposals, tracking project expenses, and managing multiple projects at once. 
 
@@ -61,7 +66,7 @@ Justin completed this end-to-end project for a fully automated beam welder, incl
 
 `2006-2013`
 
-<span style="font-size:larger;">__Duke Electric Ltd__, Hamilton, Ontario</span>
+<span style="font-size:larger;">__Duke Electric Ltd__, Automation Manager</span>
 
 Reporting to the president, Justin Wood took charge of the automation department, growing the department 250% over eight years. As the automation manager, Justin commissioned projects of increasing value, working with small teams to accomplish the success of each project. Justin worked closely with the sales team in seeking new opportunities for the business to grow and was responsible for all aspects of the business unit.
      
@@ -79,7 +84,7 @@ Created a PHP based web interface to generate daily reports from manufacturing d
 
 `2000–2005`
 
-<span style="font-size:larger;">__A.C.S. Automated Control Systems__, Burlington, Ontario</span>
+<span style="font-size:larger;">__A.C.S. Automated Control Systems__, Programmabe Controls Consultant</span>
 
 Justin Wood worked with clients of all types as a part of this small, energetic consulting team. During this time, Justin was one the primary provider of programmable controls, human interface and automated software solutions for our customers. He worked on developing new standards for PLC programming using ControlLogix and created training courses for customers. Justin also worked closely in the development of the business, creating quotations, technical presentations and working directly with the customers to secure new business. 
 
@@ -101,13 +106,13 @@ Working directly with a highly specialized integrator in the field of offset web
 
 `1999-2000`
 
-<span style="font-size:larger;">__Gerrie Electric Wholesale Ltd__, Burlington, Ontario</span>
+<span style="font-size:larger;">__Gerrie Electric Wholesale Ltd__, Inside Sales</span>
 
 Responsible for maintaining the software support contracts and generating that business, preparing quotations and fulfilling customer orders.
 
 `Summer 1998`
 
-<span style="font-size:larger;">__Brock University Electronics Dept__, St. Catharines, Ontario</span>
+<span style="font-size:larger;">__Brock University Electronics Dept__, Co-op Student</span>
 
 Performing routine maintenance of laboratory equipment. Working alongside university faculty providing electronics projects to fill research needs.
 
@@ -117,13 +122,13 @@ Bench testing and simulating software models for lightning detector manufacturer
 
 `Summer 1997`
 
-<span style="font-size:larger;">__Cyberport Niagara__, Niagara Falls, Ontario</span>
+<span style="font-size:larger;">__Cyberport Niagara__, Co-op Student</span>
 
 Responsible for maintenance and upgrade of the networked, computerised flight simulator programs. Performed tours of the facility.
 
 `1994`
 
-<span style="font-size:larger;">__Camroux and Company Ltd__, Niagara Falls, Ontario</span>
+<span style="font-size:larger;">__Camroux and Company Ltd__, Sales Representative</span>
 
 Responsible for all North American telephone sales efforts, thus increasing company revenues. Designed and implemented an automated invoicing and reporting system using Alpha4 database software.
 
