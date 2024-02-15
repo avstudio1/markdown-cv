@@ -44,7 +44,7 @@ In 2018, Justin Wood took responsibility for managing the offices for ADB Safega
      
 Project: Airfield Lighting Construction Project
 
-Justin built the Canadian operations team into a construction company, meeting the electrical construction standards set forth by the Greater Toronto Airport Authority in order to receive a Facility Alteration Permit (FAP). Spanning multiple years, Justin oversaw the construction efforts of a multi-mullion dollar airfield lighting upgrade at the airport (Toronto Pearson Int'l Airport). The project included a complete retrofit of the electrical system that powers the airfield lighting spanning five different buildings.
+Justin built the Canadian operations team into a construction company, meeting the electrical construction standards set forth by the Greater Toronto Airport Authority in order to receive a Facility Alteration Permit (FAP). Spanning multiple years, Justin oversaw the construction efforts of a multi-million dollar airfield lighting upgrade at the airport (Toronto Pearson Int'l Airport). The project included a complete retrofit of the electrical system that powers the airfield lighting spanning five different buildings.
 
 Project: Docking Performance Dashboard
 
