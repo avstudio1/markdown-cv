@@ -84,7 +84,7 @@ Created a PHP based web interface to generate daily reports from manufacturing d
 
 `2000–2005`
 
-<span style="font-size:larger;">__A.C.S. Automated Control Systems__, Programmabe Controls Consultant</span>
+<span style="font-size:larger;">__A.C.S. Automated Control Systems__, Programmable Controls Consultant</span>
 
 Justin Wood worked with clients of all types as a part of this small, energetic consulting team. During this time, Justin was one the primary provider of programmable controls, human interface and automated software solutions for our customers. He worked on developing new standards for PLC programming using ControlLogix and created training courses for customers. Justin also worked closely in the development of the business, creating quotations, technical presentations and working directly with the customers to secure new business. 
 
@@ -153,6 +153,7 @@ Situational Leadership Workshop, American Management Association
 `2014`
 Bravo Bonus Award. Maple Leaf Foods
 
+`2014`
 Best Speech Award, Toastmasters International
 
 `2011`
@@ -174,9 +175,9 @@ Time Management Seminar, *Daytimer’s of Canada*.
 
 ### Hobbies and Interests
 
-Martial arts
+Technology
 
-Hedera Hashgraph
+Martial arts
 
 Mountain Biking
 
