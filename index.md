@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Curriculum Vitae for Justin Wood
+---
 
 ## Executive Summary
     High-velocity Systems Architect and Certified Engineering Technologist (C.E.T.) with over 25 years of cross-functional mastery spanning low-level industrial controls, enterprise-level operations, and advanced Go-based software middleware. Expert at entering chaotic, highly fragmented environments, mapping structural friction, and engineering custom data-collection pipelines to stabilize systems and scale operational throughput. Proven executive leadership managing mission-critical infrastructure, multi-million dollar federal contracts, and post-acquisition corporate turnarounds.
@@ -136,8 +137,8 @@ title: Curriculum Vitae for Justin Wood
 
 ## Contact Information
 
-Justin Wood, C.E.T.
-4328 Arejay Ave.
-Beamsville, ON  L0R 1B6
-Telephone: (905) 563-1903
-Email: justinfrombeamsville@gmail.com
+Justin Andrew Wood, C.E.T.
+4328 Arejay Avenue
+Beamsville, ON  L3J 0P7
+289-442-7135
+justin@echosh-labs.com / justinfrombeamsville@gmail.com
