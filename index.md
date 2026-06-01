@@ -1,9 +1,6 @@
 ---
-
 layout: cv
 title: Curriculum Vitae for Justin Andrew Wood
-
----
 
 ## Executive Summary
     High-velocity Systems Architect and Certified Engineering Technologist (C.E.T.) with over 25 years of cross-functional mastery spanning low-level industrial controls, enterprise-level operations, and advanced Go-based software middleware. Expert at entering chaotic, highly fragmented environments, mapping structural friction, and engineering custom data-collection pipelines to stabilize systems and scale operational throughput. Proven executive leadership managing mission-critical infrastructure, multi-million dollar federal contracts, and post-acquisition corporate turnarounds.
