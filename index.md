@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum Vitae for Justin Wood
+title: Curriculum Vitae for Justin Andrew Wood
 ---
 
 ## Executive Summary
